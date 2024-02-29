@@ -13,24 +13,24 @@ export default function Contact() {
         </span>
 
         <div className="container py-3">
-          <ul class="nav justify-content-center pt-3">
-            <li class="nav-item">
-              <a class="nav-link linkdin active" aria-current="page" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/himanshu-patkar-008001227">
-                <h1><i class="fa-brands fa-linkedin-in"></i></h1>
+          <ul className="nav justify-content-center pt-3">
+            <li className="nav-item">
+              <a className="nav-link linkdin active" aria-current="page" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/himanshu-patkar-008001227">
+                <h1><i className="fa-brands fa-linkedin-in"></i></h1>
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link email" href="mailto: himanshupatkar274@gmail.com" rel="noreferrer" target="_blank">
-              <h1><i class="fa-solid fa-envelope"></i></h1>
+            <li className="nav-item">
+              <a className="nav-link email" href="mailto: himanshupatkar274@gmail.com" rel="noreferrer" target="_blank">
+              <h1><i className="fa-solid fa-envelope"></i></h1>
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link github" href="https://github.com/Himanshupatkar274" rel="noreferrer" target="_blank">
-              <h1><i class="fa-brands fa-github"></i></h1>
+            <li className="nav-item">
+              <a className="nav-link github" href="https://github.com/Himanshupatkar274" rel="noreferrer" target="_blank">
+              <h1><i className="fa-brands fa-github"></i></h1>
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://leetcode.com/himanshu2306" target="_blank" rel="noreferrer">
+            <li className="nav-item">
+              <a className="nav-link" href="https://leetcode.com/himanshu2306" target="_blank" rel="noreferrer">
                <img className="leetcode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="dvddg" />
               </a>
             </li>
