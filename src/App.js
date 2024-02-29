@@ -15,7 +15,7 @@ function App() {
         <div className="inner container">
           <section>
              <Routes>
-              <Route path="/" element={<Home />} />
+              <Route path="/" exact element={<Home />} />
               <Route path="/Certificates" element={<Certificates />} />
               <Route path="/Projects" element={<Projects />} />
               <Route path="/Skills" element={<Skills />} />
