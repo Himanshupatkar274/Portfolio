@@ -1,5 +1,5 @@
 {
-  "name": "my-first-app",
+  "name": "port-folio",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -28,6 +28,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://himanshupatkar274.github.io/Portfolio",
   "browserslist": {
     "production": [
       ">0.2%",
