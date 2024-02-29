@@ -18,26 +18,26 @@ export default function Skills() {
                 <div className="row">
                   <div className="col-md-12">
                   <div className="skills-tab">
-                  <ul class="nav">
-                    <li class="nav-item">
+                  <ul className="nav">
+                    <li className="nav-item">
                       <strong>HTML</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://cdn.iconscout.com/icon/free/png-256/free-html-3628838-3030115.png" alt="html" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>CSS</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="CSS" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>JavaScript</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://static.vecteezy.com/system/resources/thumbnails/012/697/298/small_2x/3d-javascript-logo-design-free-png.png" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>Angular</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://w7.pngwing.com/pngs/752/651/png-transparent-angularjs-vue-js-others-angle-rectangle-triangle-thumbnail.png" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>React.Js</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="" />
                     </li>
                   </ul>
                 </div>
@@ -52,18 +52,18 @@ export default function Skills() {
                 <div className="row">
                   <div className="col-md-12">
                   <div className="skills-tab">
-                  <ul class="nav">
-                    <li class="nav-item">
+                  <ul className="nav">
+                    <li className="nav-item">
                       <strong>Material</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>Bootstrap</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>Ng-Bootstrap</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://ng-bootstrap.github.io/img/logo-stack.svg" alt="" />
                     </li>
                   </ul>
                 </div>
@@ -78,10 +78,10 @@ export default function Skills() {
                 <div className="row">
                   <div className="col-md-12">
                   <div className="skills-tab">
-                  <ul class="nav">
-                    <li class="nav-item">
+                  <ul className="nav">
+                    <li className="nav-item">
                       <strong>Node.js (Express.js)</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://miro.medium.com/v2/resize:fit:374/1*Yhe1R94CIotr2se7Wf6TQQ.png" alt="" />
                     </li>
                   </ul>
                 </div>
@@ -96,30 +96,30 @@ export default function Skills() {
                 <div className="row">
                   <div className="col-md-12">
                   <div className="skills-tab">
-                  <ul class="nav">
-                    <li class="nav-item">
+                  <ul className="nav">
+                    <li className="nav-item">
                       <strong>REST API</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>Git</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>AWS</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>Postman</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>Figma</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="" />
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                       <strong>ADO(Azure DevOps)</strong>
-                      <img className="skills-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="" />
+                      <img className="skills-img" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" alt="" />
                     </li>
                   </ul>
                 </div>

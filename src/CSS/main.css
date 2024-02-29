@@ -2,7 +2,8 @@
     padding: 30px;
     max-width: 60rem;
 }
-.profile-image img{
+
+.profile-image img {
     width: 200px;
     border-radius: 50%;
 }
@@ -17,28 +18,31 @@
     font-weight: 400;
 }
 
-.profile-paragraph{
+.profile-paragraph {
     color: #00FF38;
 }
 
-.intro{
+.intro {
     font-size: 24px;
 }
 
 .cursor-pointer {
     cursor: pointer;
 }
+
 .cursor-unset {
     cursor: unset !important;
 }
-.download-icon i{
+
+.download-icon i {
     color: #FFA800;
 }
+
 .download-icon i:hover {
     color: #00FF38;
 }
 
-.buttons-group .btn{
+.buttons-group .btn {
     padding: 16px;
     margin: 20px;
     width: 200px;
@@ -47,16 +51,16 @@
     text-transform: uppercase;
     font-size: 16px;
     font-weight: 400;
-    border:solid 1px rgba(255, 255, 255, 0.169);
+    border: solid 1px rgba(255, 255, 255, 0.169);
     transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
 }
 
-.buttons-group .btn:hover{
+.buttons-group .btn:hover {
     border-color: #FFA800;
     color: #FFA800;
 }
 
-.cartificates{
+.cartificates {
     max-width: 75%;
     margin: auto;
 }
@@ -66,57 +70,69 @@
     border-radius: 12px;
 }
 
-.highlight{
+.highlight {
     color: #FFA800;
 }
 
-.skills-btn a{
+.skills-btn a {
     background-color: #a5823f !important;
 }
 
-.skills-btn a:hover{
+.skills-btn a:hover {
     background-color: black !important;
 }
 
+
 .skills-img {
     width: 60px;
-}
-.skills-tab li{
-   border: 1px solid #FFA800;
-   border-radius: 6px;
-   padding: 8px;
-   margin: 12px;
- }
-.skills-tab strong{
-   font-size: 20px;
+    padding-left: 7px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
 }
 
-.contact span{
+.skills-tab li {
+    border: 1px solid #FFA800;
+    border-radius: 6px;
+    padding: 8px;
+    margin: 5px;
+}
+
+.skills-tab strong {
+    font-size: 20px;
+}
+
+.contact span {
     font-family: cursive;
     font-size: 26px;
 }
 
-.contact .thank{
+.contact .thank {
     font-family: cursive;
     color: #00FF38;
     font-size: 30px;
     font-style: italic;
 }
+
 .contact .linkdin {
     color: #5561ff;
 }
+
 .contact .linkdin:hover {
     color: #00FF38;
 }
+
 .contact .email {
     color: #FFA800;
 }
+
 .contact .email:hover {
     color: #48d9f3;
 }
+
 .contact .github {
     color: #07B1FA;
 }
+
 .contact .github:hover {
     color: #d6e73e;
 }

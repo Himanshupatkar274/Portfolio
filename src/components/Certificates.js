@@ -1,5 +1,6 @@
 import React from "react";
 import '../CSS/main.css'
+import AngularCerti from '../downloads/Angular CLi.png'
 export default function Certificates() {
   return (
     <>
@@ -42,21 +43,21 @@ export default function Certificates() {
                 <div className="carousel-inner">
                   <div className="carousel-item active">
                     <img
-                      src="https://images.edrawsoft.com/articles/create-certificate/certificate-completion-template.png"
+                      src="https://udemy-certificate.s3.amazonaws.com/image/UC-24819291-b5b3-4f06-8cdd-1841f99be50e.jpg?v=1660838223000"
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="https://d2vyhi5ouo1we3.cloudfront.net/force_jpg/aHR0cHM6Ly9pbWFnZXMuYmFubmVyYmVhci5jb20vcmVxdWVzdHMvaW1hZ2VzLzAwOC85MjQvNTc5L29yaWdpbmFsL2VhYzQyY2FiZjM5YzIxY2Y4NThlNWY4NDRlZmM0YTA1MjJmOGUxNzkucG5nPzE2MzI4MDgzMDI=/image.jpg"
+                      src={AngularCerti}
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="https://img.freepik.com/free-vector/vintage-achievement-certificate-template-vector-professional-design-blue_53876-157583.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1708992000&semt=sph"
+                      src="https://udemy-certificate.s3.amazonaws.com/image/UC-537da4ee-ee49-4f52-998e-62af3e29b096.jpg?v=1694800296000"
                       className="d-block w-100"
                       alt="..."
                     />
