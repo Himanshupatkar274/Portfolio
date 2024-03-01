@@ -105,10 +105,10 @@ export default function Skills() {
                       <strong>Git</strong>
                       <img className="skills-img" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="" />
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                       <strong>AWS</strong>
                       <img className="skills-img" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="" />
-                    </li>
+                    </li> */}
                     <li className="nav-item">
                       <strong>Postman</strong>
                       <img className="skills-img" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="" />
