@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecad9ece.css",
-    "main.js": "/static/js/main.1974c49a.js",
-    "static/js/453.3f00d66f.chunk.js": "/static/js/453.3f00d66f.chunk.js",
-    "static/media/Himanshu.pdf": "/static/media/Himanshu.bf0dded631211f6bbed6.pdf",
-    "static/media/Himanshu.png": "/static/media/Himanshu.c30ba99909ded4abfd0b.png",
-    "static/media/Angular CLi.png": "/static/media/Angular CLi.0d12314eb66de6951286.png",
-    "index.html": "/index.html",
-    "main.ecad9ece.css.map": "/static/css/main.ecad9ece.css.map",
-    "main.1974c49a.js.map": "/static/js/main.1974c49a.js.map",
-    "453.3f00d66f.chunk.js.map": "/static/js/453.3f00d66f.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.ecad9ece.css",
+    "main.js": "/Portfolio/static/js/main.a0741986.js",
+    "static/js/453.3f00d66f.chunk.js": "/Portfolio/static/js/453.3f00d66f.chunk.js",
+    "static/media/Himanshu.pdf": "/Portfolio/static/media/Himanshu.bf0dded631211f6bbed6.pdf",
+    "static/media/Himanshu.png": "/Portfolio/static/media/Himanshu.c30ba99909ded4abfd0b.png",
+    "static/media/Angular CLi.png": "/Portfolio/static/media/Angular CLi.0d12314eb66de6951286.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ecad9ece.css.map": "/Portfolio/static/css/main.ecad9ece.css.map",
+    "main.a0741986.js.map": "/Portfolio/static/js/main.a0741986.js.map",
+    "453.3f00d66f.chunk.js.map": "/Portfolio/static/js/453.3f00d66f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecad9ece.css",
-    "static/js/main.1974c49a.js"
+    "static/js/main.a0741986.js"
   ]
 }
