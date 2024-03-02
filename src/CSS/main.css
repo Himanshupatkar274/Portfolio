@@ -140,3 +140,28 @@
 .contact .leetcode {
     width: 50px;
 }
+
+.project-des {
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-des span {
+    color: #00FF38;
+}
+
+.project-img {
+    border-radius: 50%;
+    width: 75%;
+}
+
+.link-icon i{
+    color: #FFA800;
+    cursor: pointer;
+}
+.link-icon i:hover {
+    color: #00FF38;
+}
