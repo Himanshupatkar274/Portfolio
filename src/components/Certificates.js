@@ -1,6 +1,8 @@
 import React from "react";
 import '../CSS/main.css'
 import AngularCerti from '../downloads/Angular CLi.png'
+import webDevelopment from "../downloads/web development.jpg";
+import NodeJSCertificate from "../downloads/Node js.png";
 export default function Certificates() {
   return (
     <>
@@ -43,7 +45,7 @@ export default function Certificates() {
                 <div className="carousel-inner">
                   <div className="carousel-item active">
                     <img
-                      src="https://udemy-certificate.s3.amazonaws.com/image/UC-24819291-b5b3-4f06-8cdd-1841f99be50e.jpg?v=1660838223000"
+                      src= {webDevelopment}
                       className="d-block w-100"
                       alt="..."
                     />
@@ -57,7 +59,7 @@ export default function Certificates() {
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="https://udemy-certificate.s3.amazonaws.com/image/UC-537da4ee-ee49-4f52-998e-62af3e29b096.jpg?v=1694800296000"
+                      src={NodeJSCertificate}
                       className="d-block w-100"
                       alt="..."
                     />

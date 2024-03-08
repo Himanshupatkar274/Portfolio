@@ -7,16 +7,15 @@ export default function Userforms() {
     password: "",
   });
   const [userData, setUserData] = useState([]);
+  const [isToggle, setIsToggle] = useState(false);
 
-  const getUserData = () => {
+
+  useEffect(() => {
     axios.get(apiUrl).then((response) => {
       setUserData(response.data);
     });
-  };
+  },[]);
 
-  useEffect(() => {
-    getUserData();
-  }, []);
   const handleChange = (event) => {
     const { name, value } = event.target;
     setFormValue((prevState) => ({
@@ -29,12 +28,15 @@ export default function Userforms() {
     event.preventDefault();
     console.log(formValue);
   };
+
+  const handleClick = ()=>{
+    setIsToggle(abc => !abc)
+  }
   return (
     <>
       <div className="container my-3  w-50">
         <form onSubmit={handleSubmit}>
-          <div className="mb-3">
-            <label className="form-label">Email address</label>
+          <div className="input-group mb-3">
             <input
               type="email"
               className="form-control"
@@ -43,17 +45,23 @@ export default function Userforms() {
               name="email"
               value={formValue.email}
               onChange={handleChange}
+              placeholder="Email"
             />
           </div>
-          <div className="mb-3">
-            <label className="form-label">Password</label>
+          <div className="input-group mb-3">
             <input
-              type="password"
+              type= {isToggle ? 'text':'password'}
               className="form-control"
               name="password"
               value={formValue.password}
               onChange={handleChange}
+              placeholder="Password"
             />
+            <span className="input-group-text cursor-pointer" id="basic-addon2" onClick={handleClick}>
+                {
+                 isToggle ?  <i className="fa-solid fa-eye"></i> : <i className="fa-solid fa-eye-slash"></i>
+                }
+            </span>
           </div>
           <button type="submit" className="btn btn-primary form-control w-25">
             Submit
@@ -71,11 +79,11 @@ export default function Userforms() {
           </thead>
           {userData.map((data, index) => {
             return (
-              <tbody>
+              <tbody key={data.id ? data.id : ''}>
                 <tr>
-                  <th scope="row">{data.id}</th>
-                  <td>{data.title}</td>
-                  <td>{data.body}</td>
+                  <th scope="row">{data.id ? data.id : ''}</th>
+                  <td>{data.title? data.title : ''}</td>
+                  <td>{data.body? data.body : ''}</td>
                 </tr>
               </tbody>
             );
