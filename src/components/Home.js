@@ -21,16 +21,16 @@ export default function Home() {
               Hello and welcome to my website!
             </h5>
             <p className="intro">
-              I specialize in front-end development with 1.4 years of
+              I specialize in front-end development with 1.8 years of
               experience, with a strong command of modern web technologies. My
               proficiency in <strong className="highlight">Angular</strong>, along with HTML5, CSS3,
-              JavaScript, Bootstrap, Rest API, Git and Angular Material, allows
+              JavaScript, Bootstrap, Rest API, Git and Angular Material, React.Js allows
               me to craft intuitive, responsive, and visually stunning user
               interfaces. I prioritize user experience and design aesthetics,
               ensuring that every project I undertake captivates and engages
               users effectively. I have gone through api integration process
               during my projects. I also have Basic understanding of figma and
-              ADO Software <br /> (Azure Devops).
+              ADO (Azure DevOps) Software .<br />
             </p>
             <p className="intro text-start py-2">
               <ul>
@@ -38,7 +38,7 @@ export default function Home() {
                   Working experience Angular v8 and above Material UI/Bootstrap
                   5
                 </li>
-                <li>Strong knowledge of Angular 15 with Rxjs </li>
+                <li>Strong knowledge of Angular 15 with RxJS and also knowledge of React.js.</li>
                 <li>Strong understanding of CSS & SCSS and CSS animations</li>
                 <li>
                   Core Expertise in Typescript, Javascript with ES6 concepts.
