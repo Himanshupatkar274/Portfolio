@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5daf4bc2.css",
-    "main.js": "/Portfolio/static/js/main.17e68c39.js",
+    "main.js": "/Portfolio/static/js/main.9b099fe3.js",
     "static/js/453.3f00d66f.chunk.js": "/Portfolio/static/js/453.3f00d66f.chunk.js",
     "static/media/Himanshu Resume.pdf": "/Portfolio/static/media/Himanshu Resume.3072bba0994832f833e1.pdf",
     "static/media/Himanshu.png": "/Portfolio/static/media/Himanshu.c30ba99909ded4abfd0b.png",
@@ -11,11 +11,11 @@
     "static/media/Survey.jpg": "/Portfolio/static/media/Survey.5c4625963458291ad3f6.jpg",
     "index.html": "/Portfolio/index.html",
     "main.5daf4bc2.css.map": "/Portfolio/static/css/main.5daf4bc2.css.map",
-    "main.17e68c39.js.map": "/Portfolio/static/js/main.17e68c39.js.map",
+    "main.9b099fe3.js.map": "/Portfolio/static/js/main.9b099fe3.js.map",
     "453.3f00d66f.chunk.js.map": "/Portfolio/static/js/453.3f00d66f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5daf4bc2.css",
-    "static/js/main.17e68c39.js"
+    "static/js/main.9b099fe3.js"
   ]
 }
