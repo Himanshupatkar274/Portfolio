@@ -3,6 +3,7 @@ import '../CSS/main.css'
 import AngularCerti from '../downloads/Angular CLi.png'
 import webDevelopment from "../downloads/web development.jpg";
 import NodeJSCertificate from "../downloads/Node js.png";
+import AngularCertificate from "../downloads/Angular.png";
 export default function Certificates() {
   return (
     <>
@@ -46,6 +47,13 @@ export default function Certificates() {
                   <div className="carousel-item active">
                     <img
                       src= {webDevelopment}
+                      className="d-block w-100"
+                      alt="..."
+                    />
+                  </div>
+                  <div className="carousel-item active">
+                    <img
+                      src= {AngularCertificate}
                       className="d-block w-100"
                       alt="..."
                     />

@@ -5,6 +5,7 @@ import Buttons from "./components/Buttons";
 import Certificates from "./components/Certificates";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
+import ScrollToTop from "./components/ScrollToTop";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Contact from "./components/Contact";
 
@@ -12,6 +13,7 @@ function App() {
   return (
     <>
       <Router>
+      <ScrollToTop />
         <div className="inner container">
           <section>
              <Routes>
