@@ -1,6 +1,6 @@
 import React from "react";
 import "../CSS/main.css";
-import ExamplePdf from "../downloads/Himanshu Resume.pdf";
+import ExamplePdf from "../downloads/Himanshu_Angular Developer.pdf";
 import HimanshuImg from "../downloads/Himanshu.png";
 export default function Home() {
   return (

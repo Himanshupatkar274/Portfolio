@@ -165,3 +165,45 @@
 .link-icon i:hover {
     color: #00FF38;
 }
+
+@keyframes fadeIn {
+    from {
+      opacity: 1;
+      transform: translateX(40px); /* Changed from translateX to translateY */
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0); /* Changed from translateX to translateY */
+    }
+  }
+  
+  .fade-in {
+    opacity: 0;
+  }
+  
+  .in-view {
+    opacity: 1;
+    animation: fadeIn 1.5s forwards; /* Added animation to in-view class */
+  }
+  
+  .fade-out {
+    opacity: 1;
+    animation: fadeOut 1.5s forwards;
+  }
+  
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+      transform: translateX(0); /* Changed from translateX to translateY */
+    }
+    to {
+      opacity: 1;
+      transform: translateX(40px); /* Changed from translateX to translateY */
+    }
+  }
+  
+  .container {
+    overflow: hidden; /* Ensure contents don't overflow and cause layout issues */
+  }
+  
+  

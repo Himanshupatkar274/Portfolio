@@ -51,7 +51,7 @@ export default function Certificates() {
                       alt="..."
                     />
                   </div>
-                  <div className="carousel-item active">
+                  <div className="carousel-item">
                     <img
                       src= {AngularCertificate}
                       className="d-block w-100"
