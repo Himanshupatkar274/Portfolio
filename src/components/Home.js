@@ -21,7 +21,7 @@ export default function Home() {
               Hello and welcome to my website!
             </h5>
             <p className="intro">
-              I specialize in front-end development with 1.8 years of
+              I specialize in front-end development with 1.10 years of
               experience, with a strong command of modern web technologies. My
               proficiency in <strong className="highlight">Angular</strong>, along with HTML5, CSS3,
               JavaScript, Bootstrap, Rest API, Git and Angular Material, React.Js allows
@@ -48,7 +48,7 @@ export default function Home() {
             <div className="my-5 cursor-pointer download-icon">
               <a
                 href={ExamplePdf}
-                download="Himanshu Resume"
+                download="Himanshu_Angular_Developer"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-secondary"

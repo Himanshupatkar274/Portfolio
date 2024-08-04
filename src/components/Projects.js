@@ -30,7 +30,7 @@ export default function Projects() {
               of the we give the royalty point and voucher to the user . Also
               user can redeem theese vouchers.
             </div>
-            <h5 className="link-icon">
+            <h5 className="link-icon mt-3">
               <a
                 href="https://panel.opinion-edge.com/"
                 target="_blank"
