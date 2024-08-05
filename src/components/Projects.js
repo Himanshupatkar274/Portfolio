@@ -13,7 +13,7 @@ export default function Projects() {
           </h1>
           <span className="pt-3">
             The projects section showcases some of the work that I have done in
-            the past. It includes a brief description of each project, the
+            the present and past. It includes a brief description of each project, the
             technologies and skills that I used, and a link to the source code
             or live demo. They demonstrate my ability to solve problems, learn
             new tools, and collaborate with others.
@@ -26,11 +26,12 @@ export default function Projects() {
           <div className="col-md-6 project-des">
             <span className="mb-2">Opinion-Edge (Share Your Opinion and earn rewards)</span>
             <div>
-              In this project we provide the survey to the user. In the returns
-              of the we give the royalty point and voucher to the user . Also
-              user can redeem theese vouchers.
+             In Opinion Edge take surveys to earn rewards. Share your opinion on everyday products & services, and avail discounts and coupons across multiple platforms.
+             <p className="text-start px-3 mt-3">
+              <strong>Technologies Used By Me</strong> : Angular, TypeScript, JavaScript, Git, Font Awesome, ng-bootstrap (Library of Angular), Ag-grid, Figma, and ADO(Azure DevOps), 
+              </p>
             </div>
-            <h5 className="link-icon mt-3">
+            <h5 className="link-icon mt-2">
               <a
                 href="https://panel.opinion-edge.com/"
                 target="_blank"
