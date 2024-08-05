@@ -21,16 +21,16 @@ export default function Home() {
               Hello and welcome to my website!
             </h5>
             <p className="intro">
-              I specialize in front-end development with 1.10 years of
+              I specialize in front-end development with 1 yr 10 months of
               experience, with a strong command of modern web technologies. My
               proficiency in <strong className="highlight">Angular</strong>, along with HTML5, CSS3,
-              JavaScript, Bootstrap, Rest API, Git and Angular Material, React.Js allows
+              JavaScript, Bootstrap, Rest API, Git, and Angular Material, React.Js allows
               me to craft intuitive, responsive, and visually stunning user
               interfaces. I prioritize user experience and design aesthetics,
               ensuring that every project I undertake captivates and engages
-              users effectively. I have gone through api integration process
-              during my projects. I also have Basic understanding of figma and
-              ADO (Azure DevOps) Software .<br />
+              users effectively. I have gone through the API integration process
+              during my projects. I also have a basic understanding of Figma and
+              ADO (Azure DevOps) Software.<br />
             </p>
             <p className="intro text-start py-2">
               <ul>
