@@ -35,13 +35,13 @@ export default function Home() {
             <p className="intro text-start py-2">
               <ul>
                 <li>
-                  Working experience Angular v8 and above Material UI/Bootstrap
+                  Working experience with Angular v8 and above Material UI/Bootstrap
                   5
                 </li>
-                <li>Strong knowledge of Angular 15 with RxJS and also knowledge of React.js.</li>
+                <li>Strong knowledge of Angular 15 with RxJS and knowledge of React.js.</li>
                 <li>Strong understanding of CSS & SCSS and CSS animations</li>
                 <li>
-                  Core Expertise in Typescript, Javascript with ES6 concepts.
+                  Core Expertise in Typescript, and JavaScript with ES6 concepts.
                 </li>
               </ul>
             </p>
