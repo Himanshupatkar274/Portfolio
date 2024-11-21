@@ -1,7 +1,7 @@
 import React from "react";
 import "../CSS/main.css";
 import ExamplePdf from "../downloads/Himanshu_Angular_Developer.pdf";
-import HimanshuImg from "../downloads/Himanshu.png";
+import HimanshuImg from "../downloads/Himanshu.jpeg";
 export default function Home() {
   return (
     <>
