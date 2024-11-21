@@ -21,7 +21,7 @@ export default function Home() {
               Hello and welcome to my website!
             </h5>
             <p className="intro">
-              I specialize in front-end development with 1 yr 10 months of
+              I specialize in front-end development with 2 yr of
               experience, with a strong command of modern web technologies. My
               proficiency in <strong className="highlight">Angular</strong>, along with HTML5, CSS3,
               JavaScript, Bootstrap, Rest API, Git, and Angular Material, React.Js allows
