@@ -85,7 +85,7 @@
                       </li>
                       <li className="nav-item">
                         <strong>Mongo DB</strong>
-                        <img className="skills-img" src="https://static-00.iconduck.com/assets.00/mongodb-plain-wordmark-icon-512x508-g16o7v4q.png" alt="" />
+                        <img className="skills-img" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="" />
                       </li>
                     </ul>
                   </div>
