@@ -23,9 +23,19 @@
 .profile-paragraph {
     color: #00FF38;
 }
-
+.col-md-6 {
+    display: grid;
+    place-items: center;
+}
 .intro {
-    font-size: 24px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.projectHeader {
+    font-size: 14px !important;
+    font-weight: 400;
+    text-align: justify;
 }
 
 .cursor-pointer {
@@ -119,6 +129,17 @@
     color: #5561ff;
 }
 
+.git-url {
+    color: #FFA800;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.git-url:hover {
+    color: #00FF38;
+    text-decoration: underline;
+}
+
 .contact .linkdin:hover {
     color: #00FF38;
 }
@@ -153,6 +174,13 @@
 
 .project-des span {
     color: #00FF38;
+    /* color: #77ed91; */
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.border-radius-unset {
+    border-radius: unset !important;
 }
 
 .project-img {
