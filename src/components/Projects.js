@@ -148,7 +148,7 @@ export default function Projects() {
             <p className="text-start px-3">
               <strong>Project Highlights:</strong>
                 <ul>
-                  <li><strong>Codebase Availability:</strong> The complete source code is available on <a href="https://github.com/Himanshupatkar274/Blog-Summarizer-Chrome-Extension" className="git-url">Github</a></li>
+                  <li><strong>Codebase Availability:</strong> The complete source code is available on <a href="https://github.com/Himanshupatkar274/Blog-Summarizer-Chrome-Extension" target="_blank" className="git-url">Github</a></li>
                 </ul>
             </p>
             <p className="text-start px-3">

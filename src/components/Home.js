@@ -8,10 +8,7 @@ export default function Home() {
       <section>
         <div className="text-center mt-5">
           <div className="profile-image m-auto my-4">
-            <img
-              src={HimanshuImg}
-              alt=""
-            />
+            <img src={HimanshuImg} alt="" />
           </div>
           <h1 className="profile-name m-auto my-4">
             <strong>Himanshu Patkar</strong>
@@ -21,27 +18,40 @@ export default function Home() {
               Hello and welcome to my website!
             </h5>
             <p className="intro">
-              I specialize in front-end development with 2 yr of
-              experience, with a strong command of modern web technologies. My
-              proficiency in <strong className="highlight">Angular</strong>, along with HTML5, CSS3,
-              JavaScript, Bootstrap, Rest API, Git, and Angular Material, React.Js allows
-              me to craft intuitive, responsive, and visually stunning user
-              interfaces. I prioritize user experience and design aesthetics,
-              ensuring that every project I undertake captivates and engages
-              users effectively. I have gone through the API integration process
-              during my projects. I also have a basic understanding of Figma and
-              ADO (Azure DevOps) Software.<br />
+              I specialize in front-end development with 2 years and 4 months of
+              experience, possessing a strong command of modern web
+              technologies. My expertise in{" "}
+              <strong className="highlight">Angular</strong>, along with HTML5,
+              CSS3, JavaScript, Bootstrap, REST APIs, Git, Angular Material, and
+              React.js, enables me to create intuitive, responsive, and visually
+              appealing user interfaces. I prioritize user experience and
+              design, ensuring that every project I undertake is engaging and
+              impactful. Throughout my projects, I have gained experience in API
+              integration and have also developed server-side applications using{" "}
+              <strong>Node.js</strong>, <strong>Express.js</strong>, and
+              databases like <strong>MongoDB</strong> and{" "}
+              <strong>PostgreSQL</strong>. Additionally, I have a understanding
+              of <strong>Figma</strong> and <strong>Azure DevOps (ADO)</strong>.
             </p>
+
             <p className="intro text-start py-2">
               <ul>
                 <li>
-                  Working experience with Angular v8 and above Material UI/Bootstrap
-                  5
+                  Working experience with Angular v8 and above Material
+                  UI/Bootstrap 5
                 </li>
-                <li>Strong knowledge of Angular 15 with RxJS and knowledge of React.js.</li>
+                <li>
+                  Strong knowledge of Angular 15 with RxJS and knowledge of
+                  React.js.
+                </li>
+                <li>
+                  knowledge of Node.js, Express.js, and databases like MongoDB
+                  and PostgreSQL for creating server-side applications.
+                </li>
                 <li>Strong understanding of CSS & SCSS and CSS animations</li>
                 <li>
-                  Core Expertise in Typescript, and JavaScript with ES6 concepts.
+                  Core Expertise in Typescript, and JavaScript with ES6
+                  concepts.
                 </li>
               </ul>
             </p>
