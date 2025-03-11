@@ -4,7 +4,8 @@
 }
 
 .profile-image img {
-    width: 200px;
+    height: 204px;
+    width: 188px;
     border-radius: 50%;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
     transform: translateZ(50px);

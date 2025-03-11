@@ -1,7 +1,7 @@
 import React from "react";
 import "../CSS/main.css";
 import ExamplePdf from "../downloads/Himanshu_Angular_Developer.pdf";
-import HimanshuImg from "../downloads/Himanshu.jpeg";
+import HimanshuImg from "../downloads/Himanshu.jpg";
 export default function Home() {
   return (
     <>
@@ -18,7 +18,7 @@ export default function Home() {
               Hello and welcome to my website!
             </h5>
             <p className="intro">
-              I specialize in front-end development with 2 years and 4 months of
+              I specialize in front-end development with 2 years and 5 months of
               experience, possessing a strong command of modern web
               technologies. My expertise in{" "}
               <strong className="highlight">Angular</strong>, along with HTML5,
