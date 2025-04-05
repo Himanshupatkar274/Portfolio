@@ -18,7 +18,7 @@ export default function Home() {
               Hello and welcome to my website!
             </h5>
             <p className="intro">
-              I specialize in front-end development with 2 years and 5 months of
+              I specialize in front-end development with 2 years and 6 months of
               experience, possessing a strong command of modern web
               technologies. My expertise in{" "}
               <strong className="highlight">Angular</strong>, along with HTML5,
@@ -31,7 +31,7 @@ export default function Home() {
               <strong>Node.js</strong>, <strong>Express.js</strong>, and
               databases like <strong>MongoDB</strong> and{" "}
               <strong>PostgreSQL</strong>. Additionally, I have a understanding
-              of <strong>Figma</strong> and <strong>Azure DevOps (ADO)</strong>.
+              of <strong>Figma, PostMan, VS Code</strong> and <strong>Azure DevOps (ADO)</strong>.
             </p>
 
             <p className="intro text-start py-2">
