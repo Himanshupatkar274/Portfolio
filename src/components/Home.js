@@ -8,7 +8,7 @@ export default function Home() {
       <section>
         <div className="text-center mt-5">
           <div className="profile-image m-auto my-4">
-            <img src={HimanshuImg} alt="" />
+            <img loading="lazy" src={HimanshuImg} alt="" />
           </div>
           <h1 className="profile-name m-auto my-4">
             <strong>Himanshu Patkar</strong>

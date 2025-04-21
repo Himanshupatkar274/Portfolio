@@ -31,7 +31,7 @@ export default function Contact() {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="https://leetcode.com/himanshu2306" target="_blank" rel="noreferrer">
-               <img className="leetcode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="dvddg" />
+               <img loading="lazy" className="leetcode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="dvddg" />
               </a>
             </li>
           </ul>

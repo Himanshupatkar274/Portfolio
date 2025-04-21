@@ -24,7 +24,7 @@ export default function Projects() {
         {/* Opinion-Edge  */}
         <div className="row py-5 project-Box">
           <div className="col-md-6">
-            <img className="project-img" src={surveyImage} alt="" />
+            <img loading="lazy" className="project-img" src={surveyImage} alt="" />
           </div>
           <div className="col-md-6 project-des">
             <span className="mb-2">Opinion-Edge (Share Your Opinion and earn rewards)</span>
@@ -80,7 +80,7 @@ export default function Projects() {
             </div>
           </div>
           <div className="col-md-6">
-            <img className="project-img" src={gameImage}  alt="Cows and Bulls Game" />
+            <img loading="lazy" className="project-img" src={gameImage}  alt="Cows and Bulls Game" />
           </div>
         </div>
 
@@ -124,7 +124,7 @@ export default function Projects() {
             </div>
           </div>
           <div className="col-md-6">
-            <img className="project-img border-radius-unset" src={eCommImage}  alt="Cows and Bulls Game" />
+            <img loading="lazy" className="project-img border-radius-unset" src={eCommImage}  alt="Cows and Bulls Game" />
           </div>
         </div>
 
@@ -180,7 +180,7 @@ export default function Projects() {
             </div>
           </div>
           <div className="col-md-6">
-            <img className="project-img" src={summry}  alt="Cows and Bulls Game" />
+            <img loading="lazy" className="project-img" src={summry}  alt="Cows and Bulls Game" />
           </div>
         </div>
       </section>
