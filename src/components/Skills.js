@@ -54,8 +54,12 @@
                     <div className="skills-tab">
                     <ul className="nav">
                       <li className="nav-item">
-                        <strong>Material</strong>
-                        <img loading="lazy" className="skills-img" src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="" />
+                        <strong>React Material</strong>
+                        <img loading="lazy" className="skills-img" src="https://img.icons8.com/color/512/material-ui.png" alt="" />
+                      </li>
+                      <li className="nav-item">
+                        <strong>Angular Material</strong>
+                        <img loading="lazy" className="skills-img" src="https://repository-images.githubusercontent.com/49016322/0a1e8bee-99b1-4044-9b83-4bdb6befcde9" alt="" />
                       </li>
                       <li className="nav-item">
                         <strong>Bootstrap</strong>
