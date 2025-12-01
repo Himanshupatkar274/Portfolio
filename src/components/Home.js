@@ -1,6 +1,6 @@
 import React from "react";
 import "../CSS/main.css";
-import ExamplePdf from "../downloads/Himanshu_Angular_Developer.pdf";
+import ExamplePdf from "../downloads/Himanshu_frontend_developer.pdf";
 import HimanshuImg from "../downloads/DP.jpg";
 export default function Home() {
   return (
@@ -21,7 +21,7 @@ export default function Home() {
               I specialize in front-end development with 3+ years of
               experience, possessing a strong command of modern web
               technologies. My expertise in{" "}
-              <strong className="highlight">Angular</strong>, along with HTML5,
+              <strong className="highlight">Angular & React.js</strong>, along with HTML5,
               CSS3, JavaScript, Bootstrap, REST APIs, Git, Angular Material, and
               React.js, enables me to create intuitive, responsive, and visually
               appealing user interfaces. I prioritize user experience and
@@ -58,7 +58,7 @@ export default function Home() {
             <div className="my-5 cursor-pointer download-icon">
               <a
                 href={ExamplePdf}
-                download="Himanshu_Angular_Developer"
+                download="Himanshu_frontend_developer"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-secondary"
