@@ -52,6 +52,7 @@ export default function Certificates() {
                       rel="noopener noreferrer"
                     >
                       <i class="fa-solid fa-link"></i>
+                      <p className="fs-6">Certificate Link</p>
                     </a>
                   </h5>
                 </div>
@@ -98,6 +99,7 @@ export default function Certificates() {
                     rel="noopener noreferrer"
                   >
                     <i class="fa-solid fa-link"></i>
+                    <p className="fs-6">Certificate Link</p>
                   </a>
                 </h5>
               </div>
@@ -145,6 +147,7 @@ export default function Certificates() {
                       rel="noopener noreferrer"
                     >
                       <i class="fa-solid fa-link"></i>
+                      <p className="fs-6">Certificate Link</p>
                     </a>
                   </h5>
                 </div>
@@ -202,6 +205,7 @@ export default function Certificates() {
                     rel="noopener noreferrer"
                   >
                     <i class="fa-solid fa-link"></i>
+                    <p className="fs-6">Certificate Link</p>
                   </a>
                 </h5>
               </div>
@@ -234,7 +238,6 @@ export default function Certificates() {
                       <ol>
                         <li>Amazon EventBridge, SNS, and SQS for event routing and messaging</li>
                         <li>AWS Lambda and serverless architectural patterns</li>
-                        <li>MongoDB & Mongoose</li>
                         <li>Event-driven system design and real-time streaming using Amazon Kinesis</li>
                       </ol>
                     </p>
@@ -248,6 +251,7 @@ export default function Certificates() {
                       rel="noopener noreferrer"
                     >
                       <i class="fa-solid fa-link"></i>
+                      <p className="fs-6">Certificate Link</p>
                     </a>
                   </h5>
                 </div>

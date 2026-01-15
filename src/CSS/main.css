@@ -195,12 +195,14 @@
     width: 100%;
 }
 
-.link-icon i{
+.link-icon a {
     color: #FFA800;
     cursor: pointer;
+    text-decoration: none;
 }
-.link-icon i:hover {
+.link-icon a:hover {
     color: #00FF38;
+    text-decoration: underline;
 }
 
 .custom-chatbot {

@@ -42,6 +42,7 @@ export default function Projects() {
                 rel="noopener noreferrer"
               >
                 <i class="fa-solid fa-link"></i>
+                <p className="fs-6">Project Link</p>
               </a>
             </h5>
           </div>
@@ -75,6 +76,7 @@ export default function Projects() {
                 rel="noopener noreferrer"
               >
                 <i class="fa-solid fa-link"></i>
+                <p className="fs-6">Project Link</p>
               </a>
             </h5>
             </div>
