@@ -1,6 +1,6 @@
 import React from "react";
 import "../CSS/main.css";
-import ExamplePdf from "../downloads/Himanshu_frontend_developer.pdf";
+import ExamplePdf from "../downloads/Himanshu_FrontendDeveloper.pdf";
 import HimanshuImg from "../downloads/DP.jpg";
 export default function Home() {
   return (
@@ -18,20 +18,22 @@ export default function Home() {
               Hello and welcome to my website!
             </h5>
             <p className="intro">
-              I specialize in front-end development with 3+ years of
-              experience, possessing a strong command of modern web
-              technologies. My expertise in{" "}
-              <strong className="highlight">Angular & React.js</strong>, along with HTML5,
-              CSS3, JavaScript, Bootstrap, REST APIs, Git, Angular Material, and
-              React.js, enables me to create intuitive, responsive, and visually
-              appealing user interfaces. I prioritize user experience and
-              design, ensuring that every project I undertake is engaging and
-              impactful. Throughout my projects, I have gained experience in API
-              integration and have also developed server-side applications using{" "}
-              <strong>Node.js</strong>, <strong>Express.js</strong>, and
-              databases like <strong>MongoDB</strong> and{" "}
-              <strong>PostgreSQL</strong>. Additionally, I have a understanding
-              of <strong>Figma, PostMan, VS Code</strong> and <strong>Azure DevOps (ADO)</strong>.
+              I specialize in front-end development with 3+ years of experience,
+              possessing a strong command of modern web technologies. My
+              expertise in{" "}
+              <strong className="highlight">Angular & React.js</strong>, along
+              with HTML5, CSS3, JavaScript, Bootstrap, REST APIs, Git, Angular
+              Material, and React.js, enables me to create intuitive,
+              responsive, and visually appealing user interfaces. I prioritize
+              user experience and design, ensuring that every project I
+              undertake is engaging and impactful. Throughout my projects, I
+              have gained experience in API integration and have also developed
+              server-side applications using <strong>Node.js</strong>,{" "}
+              <strong>Express.js</strong>, and databases like{" "}
+              <strong>MongoDB</strong> and <strong>PostgreSQL</strong>.
+              Additionally, I have a understanding of{" "}
+              <strong>Figma, PostMan, VS Code</strong> and{" "}
+              <strong>Azure DevOps (ADO)</strong>.
             </p>
 
             <p className="intro text-start py-2">
@@ -55,19 +57,29 @@ export default function Home() {
                 </li>
               </ul>
             </p>
-            <div className="my-5 cursor-pointer download-icon">
+            <div className="mt-5 download-icon">
               <a
                 href={ExamplePdf}
                 download="Himanshu_frontend_developer"
                 target="_blank"
                 rel="noreferrer"
-                className="btn btn-secondary"
+                className="btn btn-secondary cursor-pointer"
                 title="Download CV"
               >
                 <h1>
                   <i className="fa-solid fa-download"></i>
                 </h1>
               </a>
+              <p className="mt-2">Download CV</p>
+            </div>
+
+            <div className="download-icon">
+              <p className="m-0">
+                <span className="mx-2 fs-5">Resume Link : </span>
+                <a className="fs-5" href="https://drive.google.com/file/d/1Sv7h7-tS4UStGIRl4bIrgnam8ahibr3k/view" target="_blank" rel="noreferrer">
+                  <i className="fa-solid fa-link"></i>
+                </a>
+              </p>
             </div>
           </div>
         </div>
